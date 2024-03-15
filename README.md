@@ -2,6 +2,8 @@
 
 # Seja bem vindo ao meu github!
 
+Sou desenvolvedor web, gosto muito de codar e busco sempre melhorar minhas skills
+
 <div style="display: inline_block"><br>
  <img height="120" width="90%" src="https://skillicons.dev/icons?i=vercel,js,react,astro,nextjs,mongodb,mysql, ,nestjs,vite,nodejs,graphql,apollo,tailwind,materialui,unity,sass,html,ts,c,cpp,cs,py,blender,sketchup,github,discord,linkedin,instagram&perline=10"><br></br>
 </div>
