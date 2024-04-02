@@ -11,4 +11,3 @@ Meu nome é Pedro Henrick, sou desenvolvedor web, gosto muito de codar e busco s
 <h2>📞 Minhas redes sociais:</h2>
 
 Instagram: @pedro.henrick456<br>
-Twitter: PedroHenrick150
