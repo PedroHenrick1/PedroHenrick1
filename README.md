@@ -5,9 +5,9 @@ Meu nome é Pedro Henrick, sou desenvolvedor web, gosto muito de codar e busco s
 <h2>🛠️ Tecnologias que eu utilizo:</h2>
 
 <div style="display: inline_block"><br>
- <img height="120" width="90%" src="https://skillicons.dev/icons?i=js,react,nextjs,mongodb,mysql,nodejs,html,ts,redux&perline=10"><br></br>
+ <img height="120" width="90%" src="https://skillicons.dev/icons?i=js,cs,mongodb,postgres,mysql,nodejs,html,css&perline=10"><br></br>
 </div>
 
 <h2>📞 Minhas redes sociais:</h2>
 
-Instagram: @pedro.henrick456<br>
+Linkedin: https://www.linkedin.com/in/pedro-henrick-borges-silva-322a922ba/<br>
